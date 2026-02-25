@@ -127,4 +127,3 @@ Calendar components by [FullCalendar.io](https://fullcalendar.io/).
 ## License
 
 MIT—see [LICENSE](LICENSE).
-
